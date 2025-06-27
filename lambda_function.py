@@ -1,1 +1,1 @@
-print("Hello Lambda frmo codepipeline")
+print("Hello Lambda from codepipeline")
