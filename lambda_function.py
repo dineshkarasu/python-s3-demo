@@ -1,1 +1,1 @@
-print("Printing this logic in lambda from CodePipeline")
+print("Deploying this logic in lambda from CodePipeline")
