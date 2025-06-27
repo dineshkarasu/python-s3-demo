@@ -12,6 +12,7 @@ phases:
     commands:
       - echo "Build phase started."
       - echo "No build needed for static Python files."
+      python app.py
 
 artifacts:
   files:
